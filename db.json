@@ -9,10 +9,10 @@
     },
     {
       "id": "0101",
-      "message": "hard drive failed in workstation 002",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2024-04-02T16:40:21.749Z"
+      "message": "fixed hard drive workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2024-04-02T17:15:26.050Z"
     },
     {
       "id": "06a0",
