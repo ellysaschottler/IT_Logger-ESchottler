@@ -14,7 +14,7 @@ import {GET_LOGS, SET_LOADING, LOGS_ERROR, ADD_LOG, DELETE_LOG, SET_CURRENT, CLE
 //     }
 // }
 
-
+// Get logs from server
 export const getLogs = () => async dispatch => {
     try {
         setLoading();
